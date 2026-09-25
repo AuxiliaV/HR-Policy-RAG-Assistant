@@ -4,5 +4,5 @@ langchain-openai>=1.0
 langchain-text-splitters>=1.0
 faiss-cpu
 pypdf
-streamlit>=1.40
+gradio
 python-dotenv
